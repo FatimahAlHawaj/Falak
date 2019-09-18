@@ -1,0 +1,36 @@
+        a:link, a:visited {
+          padding: 14px 25px;
+          background-color: red;
+          border-color:white;
+          border-style: solid;
+          text-align:cenetr;
+          color:white;
+          text-decoration: none;
+          display: inline-block;
+        }
+a:hover, a:active {
+          padding: 14px 25px;
+          background-color: white;
+          border-color:red;
+          border-style: solid;
+          text-align:cenetr;
+          color:red;
+          text-decoration: none;
+  display: inline-block;}
+  
+#BodyPage1 {text-align: center; font-family: "Times New Roman"}
+#HeaderPage1 {color: red; font-size: 24px;}
+#MainPage1 {color: white; font-size: 20; background-color: red ;}
+
+#FooterPage1 {color: navy; font-size: 16px}
+#submit {background-color: red; color: white; border-color: red ; font-family: "Times New Roman"}
+#Contact {padding: 1px 9px}
+#BodyTeam {text-align: center}
+#HeaderTeam {color: navy}
+#MainTeam { color: red}
+#FooterTeam {color: white; background-color: red}
+#HeadF {text-align: center; color: red}
+#BodyF {text-align: center}
+#HeaderF {background-color: navy; color: white}
+#MainF {color: rgb(150,150,150) }
+#FooterF {color: white; background-color: red }
