@@ -19,7 +19,7 @@ a:hover, a:active {
   display: inline-block;}
   
 #BodyPage1 {text-align: center; font-family: "Times New Roman"; background-color: rgb(178, 178, 178)}
-#HeaderPage1 {color: rgb(51, 102, 153); font-size: 24px; background-image: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA23454_hires.jpg"):}
+#HeaderPage1 {color: rgb(51, 102, 153); font-size: 24px; background-image: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA23454_hires.jpg"); backgorund-repeat: no-reprat; background-size: cover;}
 #MainPage1 {color: rgb(51, 102, 153); font-size: 20; background-color: rgb(178, 178, 178) ;}
 
 #FooterPage1 {color: rgb(51, 102, 153); font-size: 16px}
