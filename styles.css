@@ -19,7 +19,7 @@ a:hover, a:active {
   display: inline-block;}
   
 #BodyPage1 {text-align: center; font-family: "Times New Roman"}
-#HeaderPage1 {color: rgb(51, 102, 153); font-size: 24px;}
+#HeaderPage1 {color: rgb(51, 102, 153); font-size: 24px; background-image: url("https://static.wixstatic.com/media/cc1f5b_937290225c9344c4a71645887b708fff~mv2_d_2048_1536_s_2.jpeg/v1/fill/w_940,h_600,al_c,q_85,usm_0.66_1.00_0.01/Untitled.webp"):}
 #MainPage1 {color: rgb(51, 102, 153); font-size: 20; background-color: rgb(178, 178, 178) ;}
 
 #FooterPage1 {color: rgb(51, 102, 153); font-size: 16px}
