@@ -1,7 +1,7 @@
         a:link, a:visited {
           padding: 14px 25px;
-          background-color: red;
-          border-color:white;
+          background-color: rgb(102, 102, 153);
+          border-color:white; 
           border-style: solid;
           text-align:cenetr;
           color:white;
@@ -19,19 +19,19 @@ a:hover, a:active {
   display: inline-block;}
   
 #BodyPage1 {text-align: center; font-family: "Times New Roman"}
-#HeaderPage1 {color: red; font-size: 24px;}
-#MainPage1 {color: white; font-size: 20; background-color: red ;}
+#HeaderPage1 {color: rgb(51, 102, 153); font-size: 24px;}
+#MainPage1 {color: rgb(51, 102, 153); font-size: 20; background-color: rgb(178, 178, 178) ;}
 
-#FooterPage1 {color: navy; font-size: 16px}
-#submit {background-color: red; color: white; border-color: red ; font-family: "Times New Roman"}
+#FooterPage1 {color: rgb(51, 102, 153); font-size: 16px}
+#submit {background-color: rgb(153, 255, 153); color: white; border-color: white ; font-family: "Times New Roman"}
 #Contact {padding: 1px 9px}
 #BodyTeam {text-align: center}
-#HeaderTeam {color: navy}
-#MainTeam { color: red}
-#FooterTeam {color: white; background-color: red}
-#HeadF {text-align: center; color: red}
+#HeaderTeam {color: rgb( 102, 102, 153)}
+#MainTeam { color: rgb(102, 102, 153)}
+#FooterTeam {color: white; background-color: red rgb(51, 102, 153)}
+#HeadF {text-align: center; color: rgb(102, 102, 153)}
 #BodyF {text-align: center}
-#HeaderF {background-color: navy; color: white}
+#HeaderF {background-color: rgb(178, 178, 178); color: white}
 #MainF {color: rgb(150,150,150) }
 #FooterF {color: white; background-color: red }
 #IC1101GalaxyBody { color: navy; background-color: white; text-align: center; font-family: "Times New Roman"}
