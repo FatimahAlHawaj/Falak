@@ -11,10 +11,10 @@
 a:hover, a:active {
           padding: 14px 25px;
           background-color: white;
-          border-color:red;
+          border-color:rgb(102, 102, 153);
           border-style: solid;
           text-align:cenetr;
-          color:red;
+          color:rgb(102, 102, 153);
           text-decoration: none;
   display: inline-block;}
   
