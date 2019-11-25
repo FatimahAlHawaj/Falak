@@ -1,6 +1,6 @@
         a:link, a:visited {
           padding: 14px 25px;
-          background-color: rgb(51, 102, 153);
+          background-color: rgb(178, 178, 178);
           border-color:white; 
           border-style: solid;
           text-align:cenetr;
@@ -11,10 +11,10 @@
 a:hover, a:active {
           padding: 14px 25px;
           background-color: white;
-          border-color:rgb(51, 102, 153);
+          border-color:rgb(178, 178, 178);
           border-style: solid;
           text-align:cenetr;
-          color:rgb(51, 102, 153);
+          color:rgb(178, 178, 178);
           text-decoration: none;
   display: inline-block;}
   
@@ -23,19 +23,19 @@ a:hover, a:active {
 #MainPage1 {color: white; font-size: 20; background-color: rgb(51, 102, 153) ;}
 
 #FooterPage1 {color: white); font-size: 16px}
-#submit {background-color: rgb(51, 102, 153); color: white; border-color: white ; font-family: "Times New Roman"}
+#submit {background-color: rgb(178, 178, 178); color: white; border-color: white ; font-family: "Times New Roman"}
 #Contact {padding: 1px 9px}
 #BodyTeam {text-align: center}
-#HeaderTeam {color: white; background-color: rgb(51, 102, 153)}
-#MainTeam { color: white; background-color: rgb(51, 102, 153)}
-#FooterTeam {color: white; background-color: rgb(51, 102, 153)}
-#HeadF {text-align: center; color:white; background-color: rgb(51, 102, 153)}
-#BodyF {text-align: center; color: white; background-color: rgb(51, 102, 153)}
-#HeaderF {background-color: rgb(51, 102, 153); color: white}
-#MainF {color: white; background-color: rgb(51, 102, 153) }
-#FooterF {color: white; background-color: rgb(51, 102, 153) }
+#HeaderTeam {color: white; }
+#MainTeam { color: white; }
+#FooterTeam {color: white;}
+#HeadF {text-align: center; color:white;}
+#BodyF {text-align: center; color: white;}
+#HeaderF {color: white}
+#MainF {color: white;  }
+#FooterF {color: white; }
 #IC1101GalaxyBody { color: white; background-color: rgb(51, 102, 153); text-align: center; font-family: "Times New Roman"}
 #ISSBody { color: white; background-color: rgb(51, 102, 153); text-align: center; font-family: "Times New Roman"}
 #SaudiandSpaceBody { color: white; background-color: rgb(51, 102, 153); text-align: center;font-family: "Times New Roman"}
 #TheThirdManBody { color: white; background-color: rgb(51, 102, 153); text-align: center; font-family: "Times New Roman"}
-#OurArticlesBody {color: white; background-image="https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA23452_hires.jpg"; font-family: "Times New Roman"; text-align: center}
+#OurArticlesBody {color: white; font-family: "Times New Roman"; text-align: center}
