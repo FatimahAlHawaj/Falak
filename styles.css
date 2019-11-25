@@ -38,4 +38,4 @@ a:hover, a:active {
 #ISSBody { color: white; background-color: rgb(51, 102, 153); text-align: center; font-family: "Times New Roman"}
 #SaudiandSpaceBody { color: white; background-color: rgb(51, 102, 153); text-align: center;font-family: "Times New Roman"}
 #TheThirdManBody { color: white; background-color: rgb(51, 102, 153); text-align: center; font-family: "Times New Roman"}
-#OurArticlesBody {color: white; background-color: rgb(51, 102, 153); font-family: "Times New Roman"; text-align: center}
+#OurArticlesBody {color: white; background-image="https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA23452_hires.jpg"; font-family: "Times New Roman"; text-align: center}
